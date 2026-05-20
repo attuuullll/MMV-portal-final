@@ -1,0 +1,66 @@
+[
+  {
+    "id": "mmv-knowledge-control-room-primary",
+    "type": "Emergency",
+    "title": "MMV Control Room (Primary)",
+    "description": "Primary control room helpline for urgent hostel support at Kundan Devi Malviya Hostel.",
+    "contact": "05422369169",
+    "tags": ["mmv", "control room", "emergency", "hostel", "helpline", "contact"]
+  },
+  {
+    "id": "mmv-knowledge-control-room-secondary",
+    "type": "Emergency",
+    "title": "MMV Control Room (Secondary)",
+    "description": "Secondary control room number for backup emergency coordination.",
+    "contact": "05422369134",
+    "tags": ["mmv", "control room", "emergency", "hostel", "helpline", "contact"]
+  },
+  {
+    "id": "mmv-knowledge-ambulance",
+    "type": "Healthcare",
+    "title": "MMV Hostel Ambulance Support",
+    "description": "Emergency medical transport support for MMV hostel residents.",
+    "contact": "9935946749",
+    "tags": ["mmv", "ambulance", "medical", "emergency", "health"]
+  },
+  {
+    "id": "mmv-knowledge-wifi",
+    "type": "Digital Services",
+    "title": "MMV Wi-Fi Office",
+    "description": "Support line for internet and hostel connectivity issues.",
+    "contact": "05422308001",
+    "tags": ["mmv", "wifi", "internet", "network", "connectivity", "office"]
+  },
+  {
+    "id": "mmv-knowledge-electrician",
+    "type": "Maintenance",
+    "title": "MMV Electrician Support",
+    "description": "Electrical maintenance contact for hostel infrastructure issues.",
+    "contact": "9026384394",
+    "tags": ["mmv", "electrician", "electric", "maintenance", "repair", "hostel"]
+  },
+  {
+    "id": "mmv-knowledge-sports-notice",
+    "type": "Notice",
+    "title": "MMV Athletic Association Practice",
+    "description": "Sports and recreational activities include table tennis, badminton, volleyball, chess, basketball, kho-kho, tug of war, cricket, throwball, football, handball, athletics, kabaddi, and kick boxing.",
+    "contact": "MMV Games Office",
+    "tags": ["mmv", "sports", "athletics", "practice", "games", "activities"]
+  },
+  {
+    "id": "mmv-knowledge-admin-committee",
+    "type": "Administration",
+    "title": "Jyoti Kunj Purchase Committee (FY 2025-26)",
+    "description": "Committee for Jyoti Kunj Hostel includes Chairperson/Admin Warden Dr. Gautam Geeta Jiwatram, Co-ordinator Dr. Seema Tiwari, and member wardens Dr. Kavita Pandey, Dr. Shweta Kumari, and Dr. Rukmani Jaiswal.",
+    "contact": "Jyoti Kunj Hostel Office",
+    "tags": ["mmv", "jyoti kunj", "committee", "warden", "administration", "office"]
+  },
+  {
+    "id": "mmv-knowledge-duty-list",
+    "type": "Operations",
+    "title": "Jyoti Kunj Employee Duty List (April 2026)",
+    "description": "Shift roster: Seema Yadav (6-2, Thursday), Alna Rani Sharma (1-9, Wednesday), Nageena Devi (Reliever, Friday), and Poonam Devi (9-6, Tuesday).",
+    "contact": "Jyoti Kunj Administration",
+    "tags": ["mmv", "duty", "roster", "operations", "staff", "jyoti kunj"]
+  }
+]
